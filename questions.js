@@ -9,12 +9,12 @@ export default [
       ],
     },
     {
-      question: "Quais são os diferentes tipos de tubos de ensaio?",
+      question: "Quais são os diferentes tipos de balão de ensaio?",
       answers: [
-        { option: "Tubo de ensaio de vidro e tubo de ensaio de plástico", correct: false },
-        { option: "Tubo de ensaio de fundo chato e tubo de ensaio de fundo redondo", correct: true },
-        { option: "Tubo de ensaio de destilação e tubo de ensaio de ebulição", correct: false },
-        { option: "Tubo de ensaio de cultura e tubo de ensaio de fermentação", correct: false }
+        { option: "Balão de ensaio de vidro e balão de ensaio de plástico", correct: false },
+        { option: "Balão de ensaio de fundo chato e balão de ensaio de fundo redondo", correct: true },
+        { option: "Balão de ensaio de destilação e balão de ensaio de ebulição", correct: false },
+        { option: "Balão de ensaio de cultura e balão de ensaio de fermentação", correct: false }
       ],
     },
     {
